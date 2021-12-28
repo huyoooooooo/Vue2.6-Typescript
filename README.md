@@ -1,5 +1,5 @@
 # Vue2.6-Typescript
-Backend management system based on 2.6+ with Ts
+Backend management system based on Vue2.6+ with Ts
 
 ## Project setup
 ```
